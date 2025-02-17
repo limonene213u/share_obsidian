@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5882f629c4c46c10",
+        "id": "2bbf0a2dbc6a2a18",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f36f45f016e1f3",
+            "id": "13cad1b04ba7d5b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2c82f0f3a3ef297a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "602713afb7c3e360",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ]
@@ -159,13 +143,23 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "ff5785dc8a6dfa76",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6f36f45f016e1f3",
+  "active": "13cad1b04ba7d5b5",
   "lastOpenFiles": [
+    "7月例会/りもこライフヒストリー（技術編）.md",
+    "7月例会/「できない」を「できる」に変える.md",
+    "7月例会",
     "Welcome.md"
   ]
 }
