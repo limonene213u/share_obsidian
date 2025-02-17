@@ -1,0 +1,4 @@
+# Obsidianのキャッシュファイルを無視
+.obsidian/workspace
+.obsidian/cache
+.obsidian/appearance.json
