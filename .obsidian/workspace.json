@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7月例会/りもこライフヒストリー（技術編）.md",
+                "file": "無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "りもこライフヒストリー（技術編）"
+              "title": "無題のファイル"
+            }
+          },
+          {
+            "id": "a319714389885e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7月例会/例会の方向.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "例会の方向"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "d423ccdb2e8b89cc",
@@ -176,11 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13cad1b04ba7d5b5",
+  "active": "a319714389885e69",
   "lastOpenFiles": [
-    "7月例会/「できない」を「できる」に変える.md",
+    "7月例会/旧資料/「できない」を「できる」に変える.md",
+    "7月例会/旧資料",
+    "7月例会/旧資料/りもこライフヒストリー（技術編）.md",
+    "7月例会/例会の方向.md",
+    "無題のファイル.md",
     "「できない」を「できる」に変える.md",
-    "7月例会/りもこライフヒストリー（技術編）.md",
     "7月例会",
     "Welcome.md"
   ]
